@@ -11,8 +11,6 @@
 #include "bitmap.h"
 #include "testing.h"
 
-// TODO: ./fractal -ds1.1,2.3 -> ERROR!
-
 
 int main(int argc, char** argv) {
     // für Parsen der Argumente benötigt
