@@ -1,4 +1,4 @@
-# tricorn-fractal
+# Tricorn-Fractal Algorithm
 
 ## Description
 This is a project I made in university which calculates and visualizes tricorn fractals. Tricorn fractals are a subset of the mandelbrot set.
